@@ -4,6 +4,7 @@ U stand for untracked.
 A standfors added.
 step2: for indexing to add file(git add 'text.html') or (git add . ) to add all changes.
 M stands for modified.
+to commit changes=git commit -m "commit is performed"
 if file is modified u can run command to check difference(git diff)
 step 3: to add all code write command (git push)
 Branching
